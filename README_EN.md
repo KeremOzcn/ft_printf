@@ -8,6 +8,7 @@
 	<img src="https://img.shields.io/badge/score-100%20%2F%20100-success?color=%2312bab9&style=flat-square" />
 	<a href='https://www.linkedin.com/in/kerem0zcn' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </p>
+
 ## Project Description
 
 The `ft_printf` project aims to reimplement the standard `printf` function in C. This project seeks to replicate various formatting options and behaviors of the `printf` function, providing a customizable and in-depth version to enhance understanding.
